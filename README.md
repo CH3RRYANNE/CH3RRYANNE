@@ -41,7 +41,7 @@
 ### Get to know me better !! (/≧▽≦)/ 🩷🩷
 - 🌱 I’m currently learning <em>Python Programming Language, and VueJS</em>
 - 💬 Ask me anything :>
-- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/cherry-dagunan) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cherryannedagunan@gmail.com)
+- 📫 How to reach me: [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/cherry-anne-d-32695a28b) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cherryannedagunan@gmail.com)
 
 - 😄 Pronouns: <em>she/her</em>
 - ⚡ Fun fact: <em>i am on caffeine life support ☕☕</em> 
