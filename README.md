@@ -1,23 +1,23 @@
-# <img src="images/cat3.gif" align="left" width="50px">🌸🍒Hi there! It's me, Cherry🍒🌸<img src="images/cat3.gif" width="50px">
+# <img src="images/cat3.gif" align="left" width="50px">🌸🍒𝙃𝙞 𝙏𝙝𝙚𝙧𝙚! 𝙄𝙩'𝙨 𝙢𝙚, 𝕮𝖍𝖊𝖗𝖗𝖞🍒🌸<img src="images/cat3.gif" width="50px">
 <br/>
 
- <img src="images/cat1.gif" align="left" width="50px"> <b style= "font-size:25px;"> 🎀✨Tech Stack ✨🎀 </b> 
+ <img src="images/cat1.gif" align="left" width="50px"> <b style= "font-size:25px;"> 🎀✨TEᑕᕼ ᔕTᗩᑕK✨🎀 </b> 
 
 <br/>
 
-<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/> Laravel
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/> 𝙇𝙖𝙧𝙖𝙫𝙚𝙡
 <br/>
 <br/>
-<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>PHP
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/> 𝙋𝙃𝙋
 <br/> 
 <br/>
-<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>Python
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/> 𝙋𝙮𝙩𝙝𝙤𝙣
 <br/> 
 <br/>
-<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>Figma
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 𝙁𝙞𝙜𝙢𝙖
 <br/> 
 <br/>
-<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>JAVA
+<img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/> 𝙅𝙖𝙫𝙖
 <br/>
 
 <img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px">
