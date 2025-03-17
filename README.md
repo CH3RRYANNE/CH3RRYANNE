@@ -9,7 +9,7 @@
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
 
 
-![Cherry's Github Stats](https://github-readme-stats.vercel.app/api?username=CH3RRYANNE&theme=darcula&show_icons=true)
+![Cherry's Github Stats](https://github-readme-stats.vercel.app/api?username=CH3RRYANNE&theme=synthwave&show_icons=true)
 
 - 🌱 I’m currently learning Python Programming Language, and VueJS
 - 💬 Ask me anything :>
