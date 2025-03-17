@@ -12,38 +12,12 @@
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 
-<br />
-<br />
 
-### Get Connected 🏃
-
-
-#### I love cats so here are some stickers:
-<div style="display:flex; gap:1em;">
-  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
-  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
-  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
-  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
-  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
-  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
-  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
-  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
-  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
-  <img src="assets/gifs/cat_vibing_5.gif" width="50px"> 
-</div>
-
-
-<!--
-**CH3RRYANNE/CH3RRYANNE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on 
+- 🌱 I’m currently learning Python Programming Language, and VueJS
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me anything :>
+- 📫 How to reach me: https://www.linkedin.com/in/cherry-anne-d-32695a28b/
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: i like dogs 
+
