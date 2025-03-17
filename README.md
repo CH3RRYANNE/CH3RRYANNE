@@ -8,7 +8,7 @@
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
 
-
+<br>
 ![Cherry's Github Stats](https://github-readme-stats.vercel.app/api?username=CH3RRYANNE&theme=synthwave&show_icons=true)
 
 - 🌱 I’m currently learning Python Programming Language, and VueJS
