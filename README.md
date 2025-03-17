@@ -1,5 +1,3 @@
-<div class = "bg"; style = "background-color: #8A384E; color: white;">
-
 # <img src="images/cat3.gif" align="left" width="50px">🌸🍒𝙃𝙞 𝙏𝙝𝙚𝙧𝙚! 𝙄𝙩'𝙨 𝙢𝙚, 𝕮𝖍𝖊𝖗𝖗𝖞🍒🌸<img src="images/cat3.gif" width="50px">
 <br/>
 
@@ -50,4 +48,3 @@
 
 
 <br/>
-</div>
