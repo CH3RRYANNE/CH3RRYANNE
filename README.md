@@ -1,8 +1,5 @@
-## Hi there! It's me, Cherry👋
+# <img src="assets/gifs/cool_cat.gif" align="left" width="50px"> Hi there! It's me, Cherry👋
 
-# <img src="assets/gifs/cool_cat.gif" align="left" width="50px"> Hi, I'm Godwin
-
-<em>Computer Science Graduate</em>
 <br/>
 <em>Pretty much more ☕ and less 💤 </em>
 
