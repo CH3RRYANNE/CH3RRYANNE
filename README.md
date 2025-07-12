@@ -1,7 +1,7 @@
 # <img src="images/cat3.gif" align="left" width="50px">🌸🍒𝙃𝙞 𝙏𝙝𝙚𝙧𝙚! 𝙄𝙩'𝙨 𝙢𝙚, CHERRY🍒🌸<img src="images/cat3.gif" width="50px">
 <br/>
 
- <img src="images/cat1.gif" align="left" width="50px"> <b style= "font-size:32em;"> 🎀✨TEᑕᕼ ᔕTᗩᑕK✨🎀 </b> 
+ <img src="images/cat1.gif" align="left" width="20PX"> <b style= "font-size:32em;"> 🎀✨TEᑕᕼ ᔕTᗩᑕK✨🎀 </b> 
 
 <br/>
 
@@ -10,7 +10,7 @@
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
 <img align="left" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg"/>
-
+<br/>
 <img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px"><img src="images/cat4.gif" align="left" width="50px">
 
 <br/>
